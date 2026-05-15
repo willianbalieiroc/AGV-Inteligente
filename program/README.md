@@ -6,7 +6,7 @@
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 
 ### 🎥 Demonstração do Projeto
-**[Assista ao Pitch e Demonstração da Solução (2-3 min)]((https://drive.google.com/file/d/1cPYRB2n3pLNuduaNdMXXr3Xz6w_wzBKD/view?usp=sharing))**
+**[Assista ao Pitch e Demonstração da Solução (2-3 min)](https://drive.google.com/file/d/1cPYRB2n3pLNuduaNdMXXr3Xz6w_wzBKD/view?usp=sharing)**
 
 ### 🚀 Link do Protótipo
 ** [[PROTÓTIPO NO GOOGLE AI STUDIO]](https://aistudio.google.com/apps/990b8fe9-1fc5-48c1-b262-4a4c0661d2f4?showPreview=true&showAssistant=true)
