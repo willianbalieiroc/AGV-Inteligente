@@ -1,0 +1,6 @@
+numpy
+matplotlib
+ipywidgets
+scikit-learn
+google-genai
+pandas
